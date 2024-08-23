@@ -15,4 +15,12 @@
 ![verse1](./images/verse1.png)
 
 ## Chorus 1
-![intro](./images/chorus1.png)
+![chorus](./images/chorus1.png)
+
+## Post Chorus 1
+#### 8 Total Bars
+![postchorus1](./images/intro.png)
+
+## Verse 2
+#### 16 Total Bars
+![verse2](./images/verse2.png)
